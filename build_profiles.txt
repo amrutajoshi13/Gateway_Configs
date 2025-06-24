@@ -1,1 +1,2 @@
 Silbo_IAB44-C_GW.cfg
+Silbo_IAB44-B_GW.cfg
